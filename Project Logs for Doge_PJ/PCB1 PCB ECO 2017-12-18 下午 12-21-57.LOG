@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=C10 Old Footprint=1206 New Footprint=0805L
+Change Component Footprint: Designator=C11 Old Footprint=1206 New Footprint=0805L
+Change Component Footprint: Designator=C12 Old Footprint=1206 New Footprint=0805L
+Change Component Footprint: Designator=C15 Old Footprint=1206 New Footprint=0805L
+Change Component Description : Designator=C14 Old Description=CAP, CERM, 0.047 £gF, 500 V, +/- 10%, X7R, 1206 New Description=CAP, CERM, 0.047 £gF, 500 V, +/- 10%, X7R, 1206
+Added Component: Designator=R0(0402S)
+Added Pin To Net: NetName=NetC0_1 Pin=R0-1
+Added Pin To Net: NetName=3.3V Pin=R0-2
+Added Member To Class: ClassName=Sheet1 Member=Component C8 0402YC132KAT2A
+Added Member To Class: ClassName=Sheet1 Member=Component C15 VJ1206Y473KXEAT5Z
+Added Member To Class: ClassName=Sheet1 Member=Component microUSB
+Added Member To Class: ClassName=Sheet1 Member=Component R0 PCF0402-12-10KBT1
+Added Member To Class: ClassName=Sheet1 Member=Component R9 PCF0402-12-10KBT1
+Added Member To Class: ClassName=Sheet1 Member=Component U2 JDY-10

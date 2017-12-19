@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=QON Pin=S0-2
+Removed Pin From Net: NetName=Battery Pin=S0-3
+Removed Member From Class: ClassName=Sheet1 Member=S0
+Change Component Description : Designator=C10 Old Description=CAP, CERM, 0.047 £gF, 500 V, +/- 10%, X7R, 1206 New Description=CAP, CERM, 0.047 £gF, 500 V, +/- 10%, X7R, 1206
+Change Component Description : Designator=C14 Old Description=CAP, CERM, 0.047 £gF, 500 V, +/- 10%, X7R, 1206 New Description=CAP, CERM, 0.047 £gF, 500 V, +/- 10%, X7R, 1206
+Change Component Description : Designator=C15 Old Description=CAP, CERM, 0.047 £gF, 500 V, +/- 10%, X7R, 1206 New Description=CAP, CERM, 0.047 £gF, 500 V, +/- 10%, X7R, 1206
+Change Component Description : Designator=C20 Old Description=CAP, CERM, 0.047 £gF, 500 V, +/- 10%, X7R, 1206 New Description=CAP, CERM, 0.047 £gF, 500 V, +/- 10%, X7R, 1206
+Added Component: Designator=C11(0805L)
+Added Component: Designator=C12(0805L)
+Added Component: Designator=S1(SW_EG1257)
+Added Pin To Net: NetName=PMID Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=PMID Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=Battery Pin=S1-2
+Added Pin To Net: NetName=QON Pin=S1-3
+Added Member To Class: ClassName=Sheet1 Member=Component C11 VJ1206Y473KXEAT5Z
+Added Member To Class: ClassName=Sheet1 Member=Component C12 VJ1206Y473KXEAT5Z
+Added Member To Class: ClassName=Sheet1 Member=Component S1 EG1257
+Added Member To Class: ClassName=Sheet1 Member=Component U2 JDY-10
+Added Room: Name=Sheet1
